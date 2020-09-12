@@ -3,3 +3,4 @@ inteligencia artificial para todos es un repositorio de ejercicios de vision por
 # Ebook-ia-4-all-v2
 hola mundo para todos
 siguo aqui
+no me he ido
